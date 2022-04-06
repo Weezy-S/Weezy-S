@@ -18,9 +18,6 @@
   </p>
 </div>
 <div>
-<p align="center">
-<img  alt="Oups" src="/picka-oups.jpeg" >
-</p>
 
 </div>
 <p align='center'>
@@ -31,7 +28,9 @@
   <img alt='BASH' src='https://img.shields.io/badge/bash-3776AB?style=for-the-badge&logo=linux&logoColor=white'/>
   <img alt='JavaScript' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
 </div>
-
+<p align="right">
+<img  alt="Oups" src="/picka-oups.jpeg" >
+</p>
 
 
 <!---
