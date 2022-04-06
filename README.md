@@ -7,7 +7,7 @@
 
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=👋+Hi,I’m+Yuri+DOUGUET,student+in+EPITECH+Montpellier'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=👋+Hi,I’m+Yuri+DOUGUET+student+in+EPITECH+Montpellier'>
 </p>
 
 <div>
