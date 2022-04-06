@@ -19,7 +19,7 @@
 </div>
 <div>
 <p align="center">
-<img  alt="Oups" src="/picka-css.jpg" >
+<img  alt="Oups" src="/picka-oups.jpg" >
 </p>
 
 </div>
