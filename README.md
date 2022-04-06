@@ -17,8 +17,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Weezy-S&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&dates=DD6E63&background=000000E3" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
+<div>
+<p align="center">
 <img  alt="Oups" src="/picka-css.jpg" >
+</p>
 
+</div>
 <p align='center'>
   <img alt='HTML' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
   <img alt='CSS' src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
