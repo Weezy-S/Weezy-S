@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Weezy-S
+<p align=center>  <strong> >_Welcome on my GitHub page !</strong> </p>
+
+
+- 👋 Hi, I’m Yuri DOUGUET, student in EPITECH Montpellier
 - 👀 I’m interested in video games, basket and music
-- 🌱 I’m currently learning HTML/CSS and also JAVA/PHP in curse
+- 🌱 I’m currently learning HTML/CSS and also JAVASCRIPT/PHP in curse
 - 💞️ I’m looking to collaborate on web site, video games or web security
 - 📫 How to reach me yuri.douguet@epitech.eu
 
-<p align=center>  <strong> >_Welcome on my GitHub page !</strong> </p>
 
 <p align=center>  
   <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=Yuri+Douguet'>
