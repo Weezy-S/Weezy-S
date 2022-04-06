@@ -7,14 +7,17 @@
 
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=24&duration=4200&center=true&width=222&height=42&lines=👋+Hi,I’m+Yuri+DOUGUET+student+in+EPITECH+Montpellier'>
+  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=15&center=true&width=222&height=42&lines=👋+Hi+,+I’m+Yuri+DOUGUET'>
 </p>
-
+<p align=center>  
+  <img src='https://readme-typing-svg.herokuapp.com?color=%23D069F7&size=15&center=true&width=222&height=42&lines=student+in+EPITECH'>
+</p>
 <div>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Weezy-S&theme=monokai&date_format=M%20j%5B%2C%20Y%5D&dates=DD6E63&background=000000E3" alt="GitHub Stats" /> <br/><br/>
   </p>
 </div>
+<img  alt="Oups" src="/picka-css.jpg" >
 
 <p align='center'>
   <img alt='HTML' src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white'/>
